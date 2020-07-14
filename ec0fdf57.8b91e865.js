@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{161:function(s){s.exports=JSON.parse('{"allTagsPath":"/rctiplus-ui-experimental-docs/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/rctiplus-ui-experimental-docs/blog/tags/docusaurus"}')}}]);
